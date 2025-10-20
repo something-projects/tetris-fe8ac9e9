@@ -1,0 +1,1 @@
+{"failures":[],"run":{"command":"npm test","duration_ms":4469,"output":"Test Suites: 3 passed, 3 total\\nTests:       49 passed, 49 total\\nSnapshots:   0 total\\nTime:        4.469 s\\nRan all test suites.","passed":true},"test_suites":{"failed":0,"passed":3,"total":3},"tests":{"failed":0,"passed":49,"total":49}}
